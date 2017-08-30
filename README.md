@@ -1,4 +1,4 @@
 # F17-CSCI241
 
-Class Example for Pushing
+This is a class example for pushing to github.
 
